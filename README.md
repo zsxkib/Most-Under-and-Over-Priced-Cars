@@ -28,7 +28,7 @@ Within the repo you will find the following:
 ## Results
 
 ### Top 3 Most Over-Priced Cars:
-![image](/plot/most_over_priced_car_and_why.png?raw=true "Top 3 Most Over-Priced Cars SHAP Force Plot")
+![image](/plots/most_over_priced_car_and_why.png?raw=true "Top 3 Most Over-Priced Cars SHAP Force Plot")
 
 * **2018 Mercedes-Benz G Class Specs: G550 4x4 Squared**
 > True MSRP = 227 300
@@ -47,7 +47,7 @@ Within the repo you will find the following:
 
 
 ### Top 3 Most Under-Priced Cars
-![image](/plot/most_under_priced_car_and_why.png?raw=true "Top 3 Most Under-Priced Cars SHAP Force Plot")
+![image](/plots/most_under_priced_car_and_why.png?raw=true "Top 3 Most Under-Priced Cars SHAP Force Plot")
 
 * **2018 Jeep Grand Cherokee Specs: Altitude 4x4**
 > True MSRP = 33 195
@@ -64,4 +64,4 @@ Within the repo you will find the following:
 > Predicted MSRP = 56 335.17
 > Ratio (True/Predicted) = 0.692
 
-![image](/plot/why.png?raw=true "Most Under/Over-Priced Cars SHAP Waterfall Plots")
+![image](/plots/why.png?raw=true "Most Under/Over-Priced Cars SHAP Waterfall Plots")
