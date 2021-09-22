@@ -1,4 +1,4 @@
-# Most-Under-Over-Priced-Cars
+# Most Under/Over Priced Cars
 
 ## The task is to determine what influences and drives the car prices given its technical specs. Specifically, which car(s) I believe to be most under/overpriced and why. 
 
