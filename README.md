@@ -1,6 +1,6 @@
 # Most-Under-Over-Priced-Cars
 
-## The task is to determine what influences and drives the car prices given its technical specs. Specifically, we'd like you to demonstrate which car(s) you believe to be most under/overpriced and why. 
+## The task is to determine what influences and drives the car prices given its technical specs. Specifically, which car(s) I believe to be most under/overpriced and why. 
 
 **Steps to find  Most Under/Over Priced Cars in Dataset:**
 
